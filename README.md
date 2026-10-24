@@ -1,7 +1,7 @@
 <img width="100%" alt="Arbaaz Ali Jaffer · Data Engineer · Software Developer" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Arbaaz%20Ali%20Jaffer&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Data%20Engineer%20%C2%B7%20Software%20Developer&descSize=18&descAlignY=56&section=header" />
 
 <p align="center">
-  <img alt="Building data pipelines with SQL, Python and Spark" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4F8CC9&center=true&vCenter=true&width=620&height=36&lines=Building+data+pipelines+with+SQL%2C+Python+and+Spark;BSc+Computer+Science+%C2%B7+Royal+Holloway%2C+University+of+London;Based+in+London" />
+  <img alt="Building data pipelines with SQL, Python and Spark" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4F8CC9&center=true&vCenter=true&width=620&height=36&lines=Building+data+pipelines+with+SQL%2C+Python+and+Spark;BSc+Computer+Science+%C2%B7+Royal+Holloway;Based+in+London" />
 </p>
 
 <p align="center">
